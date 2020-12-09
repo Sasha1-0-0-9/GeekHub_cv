@@ -1,0 +1,39 @@
+.title{
+	position: relative;
+	text-align: left;
+}
+#header{
+	color: white;
+	width: 300px;
+	height: 1000px;
+	background-color:#C4413A;
+	margin-bottom: 10px;
+}
+
+.info{
+	font-size: 14pt;
+	position: relative;
+	left: 330px;
+	bottom: 1005px;
+}
+
+.lang{
+	position: relative;
+	left: 550px;
+	bottom: 185px;
+}
+.icons{
+	position: relative;
+	bottom: 1050px;
+	left: 200px;
+}
+.edu{
+	position: relative;
+	bottom: 900px;
+	left: 130px;
+}
+.work{
+	position: relative;
+	bottom: 710px;
+	left: 180px;
+}
